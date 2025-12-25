@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image_path": "E:\\munir\\wardrobe images\\BeachBlue.jpg",
+      "type": "shirt",
+      "color": "blue",
+      "style": "party"
+    },
+    {
+      "id": 2,
+      "image_path": "E:\\munir\\wardrobe images\\BeigePant.jpg",
+      "type": "pants",
+      "color": "beige",
+      "style": "formal"
+    },
+    {
+      "id": 3,
+      "image_path": "E:\\munir\\wardrobe images\\Black Party.jpg",
+      "type": "shirt",
+      "color": "black",
+      "style": "party"
+    },
+    {
+      "id": 4,
+      "image_path": "E:\\munir\\wardrobe images\\BlackCargo.jpg",
+      "type": "pants",
+      "color": "black",
+      "style": "casual"
+    },
+    {
+      "id": 5,
+      "image_path": "E:\\munir\\wardrobe images\\BlackT.jpg",
+      "type": "shirt",
+      "color": "black",
+      "style": "casual"
+    },
+    {
+      "id": 6,
+      "image_path": "E:\\munir\\wardrobe images\\BlueFormal.jpg",
+      "type": "shirt",
+      "color": "blue",
+      "style": "formal"
+    },
+    {
+      "id": 7,
+      "image_path": "E:\\munir\\wardrobe images\\BlueT.jpg",
+      "type": "shirt",
+      "color": "blue",
+      "style": "causal"
+    },
+    {
+      "id": 8,
+      "image_path": "E:\\munir\\wardrobe images\\HighBoots.jpg",
+      "type": "shoes",
+      "color": "black",
+      "style": "formal"
+    },
+    {
+      "id": 9,
+      "image_path": "E:\\munir\\wardrobe images\\Leather.jpg",
+      "type": "jacket",
+      "color": "black",
+      "style": "formal"
+    },
+    {
+      "id": 10,
+      "image_path": "E:\\munir\\wardrobe images\\Raincoat.jpg",
+      "type": "jacket",
+      "color": "yellow",
+      "style": "casual"
+    },
+    {
+      "id": 11,
+      "image_path": "E:\\munir\\wardrobe images\\Sambas.jpg",
+      "type": "shoes",
+      "color": "white",
+      "style": "all"
+    },
+    {
+      "id": 12,
+      "image_path": "E:\\munir\\wardrobe images\\Vanss.jpg",
+      "type": "shoes",
+      "color": "black",
+      "style": "all"
+    },
+    {
+      "id": 13,
+      "image_path": "E:\\munir\\wardrobe images\\Yellow Sweater.jpg",
+      "type": "shirt",
+      "color": "yellow",
+      "style": "casual"
+    }
+  ]
+}
